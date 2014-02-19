@@ -1,0 +1,15 @@
+{
+  "name" : "periods-of-time",
+  "description" : "Trigger events when the period of time change",
+  "author" : "Axel Hernández Ferrera <axelhzf@gmail.com>",
+  "repository" : { "type": "git", "url": "https://github.com/axelhzf/periods-of-time.git" },
+  "dependencies" : {},
+  "devDependencies" : {
+    "mocha" : "~1.17.1",
+    "sinon" : "~1.8.2",
+    "chai" : "~1.9.0"
+  },
+  "scripts" : {
+    "test" : "mocha test"
+  }
+}
